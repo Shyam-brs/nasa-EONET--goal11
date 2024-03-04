@@ -9,4 +9,4 @@
 ##### Purpose :
     API is fetch imagery and location of Earth's observatory natural events
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/javascript/nasa/nasa-EONET).
+#### Check out the live app [here](https://shyam-brs.github.io/nasa-EONET--goal11/).
